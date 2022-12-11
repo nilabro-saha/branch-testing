@@ -5,7 +5,7 @@ public class Entity1 {
 
     }
 
-    public static void newmethod3() {
+    public static void newmethod2() {
 
     }
 }
